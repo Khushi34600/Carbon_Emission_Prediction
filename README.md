@@ -27,21 +27,6 @@ Includes data on: CO₂, CH₄, N₂O emissions, GDP, urban population, forest a
 
 ---
 
-📂 Project Structure
-
-Carbon-Emission-Prediction/
-│
-├── data/
-│   └── climate_change_download_0.xlsx
-├── notebooks/
-│   └── data_preparation.ipynb
-├── .gitignore
-├── README.md
-└── requirements.txt
-
-
----
-
 🔧 Workflow Summary
 
 1. Data Cleaning & Preparation
