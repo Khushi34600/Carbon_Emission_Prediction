@@ -1,7 +1,3 @@
-🌍 Carbon Emission Prediction
-
-A machine learning-based project to analyze and predict climate-related indicators using country-specific data.
-
 # 🌍 CO₂ Emissions Forecasting using Machine Learning
 
 This repository contains the full workflow and codebase for a machine learning project developed as part of the **AICTE-Shell AI for Climate Internship (Cycle 1, June 2025)**.
